@@ -34,11 +34,7 @@
 
 
     }
-    else
-    {
-        echo "<h1>Please start the GAME</h1>";
-    }
-
+   
     if ($next == 1)
     {
         $currentUserSum += generateCard();
