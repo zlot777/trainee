@@ -1,0 +1,53 @@
+2014/02/05 18:50:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "show".' in Z:\home\yii\YiiRoot\framework\web\CController.php:483
+Stack trace:
+#0 Z:\home\yii\YiiRoot\framework\web\CController.php(270): CController->missingAction('show')
+#1 Z:\home\yii\YiiRoot\framework\web\CWebApplication.php(282): CController->run('show')
+#2 Z:\home\yii\YiiRoot\framework\web\CWebApplication.php(141): CWebApplication->runController('site/show')
+#3 Z:\home\yii\YiiRoot\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 Z:\home\yii\www\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=site/show
+HTTP_REFERER=http://yii/index.php?r=site/contact
+---
+2014/02/05 18:50:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "show".' in Z:\home\yii\YiiRoot\framework\web\CController.php:483
+Stack trace:
+#0 Z:\home\yii\YiiRoot\framework\web\CController.php(270): CController->missingAction('show')
+#1 Z:\home\yii\YiiRoot\framework\web\CWebApplication.php(282): CController->run('show')
+#2 Z:\home\yii\YiiRoot\framework\web\CWebApplication.php(141): CWebApplication->runController('site/show')
+#3 Z:\home\yii\YiiRoot\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 Z:\home\yii\www\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=site/show
+HTTP_REFERER=http://yii/index.php?r=site/show
+---
+2014/02/05 18:50:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "show".' in Z:\home\yii\YiiRoot\framework\web\CController.php:483
+Stack trace:
+#0 Z:\home\yii\YiiRoot\framework\web\CController.php(270): CController->missingAction('show')
+#1 Z:\home\yii\YiiRoot\framework\web\CWebApplication.php(282): CController->run('show')
+#2 Z:\home\yii\YiiRoot\framework\web\CWebApplication.php(141): CWebApplication->runController('site/show')
+#3 Z:\home\yii\YiiRoot\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 Z:\home\yii\www\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=site/show
+HTTP_REFERER=http://yii/index.php?r=site/show
+---
+2014/02/05 18:53:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "show".' in Z:\home\yii\YiiRoot\framework\web\CController.php:483
+Stack trace:
+#0 Z:\home\yii\YiiRoot\framework\web\CController.php(270): CController->missingAction('show')
+#1 Z:\home\yii\YiiRoot\framework\web\CWebApplication.php(282): CController->run('show')
+#2 Z:\home\yii\YiiRoot\framework\web\CWebApplication.php(141): CWebApplication->runController('site/show')
+#3 Z:\home\yii\YiiRoot\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 Z:\home\yii\www\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=site/show
+---
+2014/02/05 19:00:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "show".' in Z:\home\yii\YiiRoot\framework\web\CController.php:483
+Stack trace:
+#0 Z:\home\yii\YiiRoot\framework\web\CController.php(270): CController->missingAction('show')
+#1 Z:\home\yii\YiiRoot\framework\web\CWebApplication.php(282): CController->run('show')
+#2 Z:\home\yii\YiiRoot\framework\web\CWebApplication.php(141): CWebApplication->runController('site/show')
+#3 Z:\home\yii\YiiRoot\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 Z:\home\yii\www\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=site/show
+---
