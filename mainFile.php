@@ -93,7 +93,7 @@
 ?>
 
     <hr>
-
+    <!-- -->
     <h3>Background color:</h3>
     <input type="checkbox" name="checkColor" value="1">
     <input type="color" name="favcolor">
